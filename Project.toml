@@ -1,6 +1,6 @@
 name = "Typst_jll"
 uuid = "eb4b1da6-20f6-5c66-9826-fdb8ad410d0e"
-version = "0.1.0+0"
+version = "0.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
