@@ -1,126 +1,126 @@
 [[Typst]]
 arch = "aarch64"
-git-tree-sha1 = "ae1b4e6fbfeca725a1ef7dde97a6fda995540e7e"
+git-tree-sha1 = "264e67608b172a3064e2c66378154aaaa5572ffd"
 os = "macos"
 
     [[Typst.download]]
-    sha256 = "74685f7d67d6ff39c98e7b9654a16dca8a78c12de7a10cec46877135ffc903a2"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "3d50d7ee344ed0538174b899a9a16924d857e8fb696a0a3e097dabaf3224f089"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.aarch64-apple-darwin.tar.gz"
 [[Typst]]
 arch = "aarch64"
-git-tree-sha1 = "ef8a2d240f1e49cc5fd37420a81cc7825b5b2578"
+git-tree-sha1 = "a8bcd7e7635c25292343b31aaa6a0f2c4557993b"
 libc = "glibc"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "78d560ad286da463f92bfa936e5d47ba466c74ddbc82037e721d98a922ee59fb"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "24afaab247238caddab35407f54593511b2227f00822841424501150c6898d50"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.aarch64-linux-gnu.tar.gz"
 [[Typst]]
 arch = "aarch64"
-git-tree-sha1 = "064c205f84c3276003002f2e30351245f2c53e9d"
+git-tree-sha1 = "aef1685d795b5ef101506620ca05d327494b9dbf"
 libc = "musl"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "e1a01722f4f7b7b006a2e8544fbe0fd91f0ba27b7bca46d439e5ed0ceb67f212"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6caa1c86fa1314f1ac50f6e652fa3e94b5f76eba7bb9eeb22cb729255509773d"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.aarch64-linux-musl.tar.gz"
 [[Typst]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c05e137d5db605785ae7bfe9920c5f9ca3bd9e19"
+git-tree-sha1 = "d15304151bc3b41ca921cb3d5e5faed3db9abe38"
 libc = "glibc"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "e7d32c5d67cd86d40ca8ec8e7058d6127f7f3532f6163fab1251b1caca44e77f"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "759909a25d564741486015e3034c1f30e68cafceb761df3ab0c863a06e112126"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.armv6l-linux-gnueabihf.tar.gz"
 [[Typst]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8c45ff143555f6de45284377794db7297e42e622"
+git-tree-sha1 = "8dd560a1c2eac1817fca01b9e9882f61128e77d4"
 libc = "musl"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "fc0dc9e79b8b0c2f6ca828f9f4f00a5f81bfa27e8e93e5efbf57fe1d3bdd6eec"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "a880fa68513eb663c86de1253207fa8850e6112407102fde3bcc44ef3f0437a2"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.armv6l-linux-musleabihf.tar.gz"
 [[Typst]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8928239be1f92b791fcfb94b18874b9e9ab7b555"
+git-tree-sha1 = "7993d7ca87d446cbb1e85b6cab4bf6e9ffcbeb7e"
 libc = "glibc"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "fccd31e8328aef6f950eb1285c75d35e2337f57f6b5dc3490c937eb44ee9de14"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9a989c3e57bb84b89e2a4aab0d1ac75bd37b6fa237428e16275b3c9d30c63d2c"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.armv7l-linux-gnueabihf.tar.gz"
 [[Typst]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e36944bdbb8a41d61b40b7b68ec9846d64dd52af"
+git-tree-sha1 = "b1c7be8d530e660f9c10bc77f415b59db7c214ee"
 libc = "musl"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "419daffe363576f354a1bbf20a058c1af36432b1f332e04a46ef358f9efcf3d4"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "016329b873ecf6f6fa1c587b2502fe72d95b6668e5318a04c9624ba297736c64"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.armv7l-linux-musleabihf.tar.gz"
 [[Typst]]
 arch = "i686"
-git-tree-sha1 = "fbd30b3208b84b72aa1cf1c1c8938a82bfa7fe7d"
+git-tree-sha1 = "76df8a939593569e7cff01cd9c0aff6198336fae"
 libc = "glibc"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "6c8a12b0f25893f45bf776d8d55f9585628f5c735510be23f745c2f44d57df0b"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.i686-linux-gnu.tar.gz"
+    sha256 = "5d8c96b472ac37c565e3fdf48588240280c76eee80cc9b8bc5462e64970c1d55"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.i686-linux-gnu.tar.gz"
 [[Typst]]
 arch = "i686"
-git-tree-sha1 = "19e6ae661ef7ee558d61b63bca4c12d21ebf382e"
+git-tree-sha1 = "f77d1f57fef15771496d91c3976b0ad5f7355e3d"
 libc = "musl"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "815b853fe671aa09a52fcc1340a4c59f1ec19e275d1d08b0821e7ca3a9173000"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.i686-linux-musl.tar.gz"
+    sha256 = "b4cfea85768677d5b338e264ca15477bd3d44e69a528fad9762e561b2c0fdc52"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.i686-linux-musl.tar.gz"
 [[Typst]]
 arch = "x86_64"
-git-tree-sha1 = "26487a9e6471b4a30e1f481db9e9ceaa8ca7a08b"
+git-tree-sha1 = "a04d0987d56ddb701d29c1423f30b5fbb7eb9974"
 os = "macos"
 
     [[Typst.download]]
-    sha256 = "7ac2316ecdd01133bc4268868401066646b6fbe30689328f4ee93f556bbfed0d"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d2640e9a93b20dd7f0f96f217c4492898e5225ca4ba4a4f97667e8b1fc926511"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.x86_64-apple-darwin.tar.gz"
 [[Typst]]
 arch = "x86_64"
-git-tree-sha1 = "7581f2451f6ad920093e325da4c8703c4dade4dc"
+git-tree-sha1 = "f7cad9ad138b7c66f86d0e17811847457b80f6ff"
 libc = "glibc"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "76d890553febe56bcf8372add13c7f43b7efd50dc6385e86fe26dad354cc1d44"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "c8cb27be147d84b13d9c590d14290098705a849b333c2c41b0ddae76f322f495"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.x86_64-linux-gnu.tar.gz"
 [[Typst]]
 arch = "x86_64"
-git-tree-sha1 = "27fa9870674d28b3c116e3f17a99eeb5b254148f"
+git-tree-sha1 = "327dfb9a3c96e7bb816061ca80c83f218d86fc76"
 libc = "musl"
 os = "linux"
 
     [[Typst.download]]
-    sha256 = "a45890168e7cdaba2ae1cecd3cee7ea1ea2e53ade5d3940f7645dd81cf8d2acc"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.x86_64-linux-musl.tar.gz"
+    sha256 = "2e4f202b9a5a1c240ab3f3496d58688738000846bc577eb85409abdad0a4a73d"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.x86_64-linux-musl.tar.gz"
 [[Typst]]
 arch = "x86_64"
-git-tree-sha1 = "d4b9c2827da15a25b1a41e72e36d160a6b7118b4"
+git-tree-sha1 = "e9806438680533a6fa04af83054f3920ba287be2"
 os = "freebsd"
 
     [[Typst.download]]
-    sha256 = "28e7a96ba11b31cf403a7cc18e37195e3295f4f75ee6e5fffeaedc81b0ac01b0"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2261fe4053e2be8c0a212ccfe470e4634aacf1c0611e85b4e70f7b8141a6e660"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.x86_64-unknown-freebsd.tar.gz"
 [[Typst]]
 arch = "x86_64"
-git-tree-sha1 = "f084027eb1ff2ef01bc85854410dcfe68a30d06c"
+git-tree-sha1 = "2df41e5d1c143ba1c47aa52fc5b160561d720afc"
 os = "windows"
 
     [[Typst.download]]
-    sha256 = "5233dd57b7468180b6fabfaec336bb1a1ab8c653ac61e7027fb3b4bb85cd9afb"
-    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.0+0/Typst.v0.13.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "650fe50d4a50d6f0191bda77170565e8c1bb2692ade6e81f1d05a9779bd7409d"
+    url = "https://github.com/JuliaBinaryWrappers/Typst_jll.jl/releases/download/Typst-v0.13.1+0/Typst.v0.13.1.x86_64-w64-mingw32.tar.gz"
